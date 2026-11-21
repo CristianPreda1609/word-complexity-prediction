@@ -1,0 +1,51 @@
+
+# dependencies / environments
+node_modules/
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+packages/
+
+# build output
+bin/
+obj/
+target/
+build/
+cmake-build-*/
+.pio/
+.gradle/
+*.o
+*.obj
+*.class
+*.exe
+*.dll
+*.pdb
+
+# IDE / OS
+.vs/
+.idea/workspace.xml
+.idea/tasks.xml
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.xdv
+*.out
+*.toc
+
+*.user
+.local/
+date/
+best_model/
+
